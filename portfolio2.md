@@ -2,7 +2,7 @@
 title: "Spike Prime"
 description: "로봇 제어 게임"
 date: "2024-02-10"
-thumbnail: "./images/portfolio2.png"
+thumbnail: "./images/xsbdTestImage - 복사본.png"
 ---
 
 # Spike Prime - 로봇 제어 게임
