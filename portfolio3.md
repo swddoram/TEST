@@ -2,7 +2,7 @@
 title: "Sky Odyssey"
 description: "3D 액션 어드벤처 게임"
 date: "2024-03-20"
-thumbnail: "./images/portfolio3.png"
+thumbnail: "./images/xsbdTestImage - 복사본 (2).png"
 video: "https://www.youtube.com/watch?v=abc123def456"
 ---
 
